@@ -1,1 +1,1 @@
-include ':MainActivivity', ':app', ':base', ':instantapp', ':wear'
+include ':MainActivivity', ':app', ':base', ':instantapp', ':wear', ':luke_mapswalker_wear', ':mobile', ':wear'
